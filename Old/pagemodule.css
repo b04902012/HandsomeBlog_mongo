@@ -1,0 +1,13 @@
+.page_title{
+    font-size:2em;
+    margin-top:1em;
+}
+.page_content{
+	font-size:1.2em;
+}
+.tag{
+	text-decoration:underline;
+}
+.page_footer{
+	font-style:italic;
+}
